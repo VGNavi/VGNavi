@@ -1,5 +1,5 @@
 ## Welcome to my GitHub
-#### My name is Laura Taylor, I am an aspiring Web Developer from the UK.
+### My name is Laura Taylor, I am an aspiring Web Developer from the UK.
 
 #### Current Projects.
 My first major project is a Nintendo game review website, I am still learning and will <br>
